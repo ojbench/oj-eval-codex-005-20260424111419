@@ -1,0 +1,7 @@
+# Build artifacts
+conv
+*.ppm
+*.pam
+*.qoi
+temp.*
+*_round.*
